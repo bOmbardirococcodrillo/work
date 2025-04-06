@@ -1,0 +1,4 @@
+Ultimate Fitness Companion Features:
+1. Personalized Workout Planner: Creates custom plans using user goals (e.g., build muscle) and equipment (e.g., yoga mat).
+2. Nutrition and Fitness Tracker: Logs workouts and meals, suggests nutrition (e.g., carbs after cardio).
+3. Virtual Fitness Coach: Offers advice and motivation (e.g., "Great job, keep it up!").
