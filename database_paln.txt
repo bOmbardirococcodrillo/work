@@ -1,0 +1,15 @@
+Graph Database Plan (Neo4j):
+Nodes:
+- User (name, age, fitness_level)
+- Exercise (name, type)
+- Equipment (name)
+- MuscleGroup (name)
+- Meal (name, calories)
+- Nutrient (name)
+- Goal (name)
+
+Relationships:
+- User-HAS_GOAL-Goal
+- Exercise-TARGETS-MuscleGroup
+- Exercise-REQUIRES-Equipment
+- Meal-CONTAINS-Nutrient
