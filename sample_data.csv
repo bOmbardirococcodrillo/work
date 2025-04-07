@@ -1,0 +1,8 @@
+type,name,property1,property2
+User,Alex,20,beginner
+Exercise,Push-up,strength,
+Equipment,Dumbbell,name,
+MuscleGroup,Chest,name,
+Meal,Chicken Salad,300,
+Nutrient,Protein,name,
+Goal,Muscle Gain,name
