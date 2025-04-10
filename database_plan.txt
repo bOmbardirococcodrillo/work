@@ -1,0 +1,3 @@
+Vector Database Plan :
+- Workout Descriptions: e.g., "20-minute cardio with treadmill"
+- Meal Descriptions: e.g., "High-protein chicken salad"
