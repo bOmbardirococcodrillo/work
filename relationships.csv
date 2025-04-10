@@ -1,0 +1,4 @@
+start_type,start_name,end_type,end_name,relationship
+User,Alex,Goal,Muscle Gain,HAS_GOAL
+Exercise,Push-up,MuscleGroup,Chest,TARGETS
+Meal,Chicken Salad,Nutrient,Protein,CONTAINS
